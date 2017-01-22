@@ -1,5 +1,6 @@
 import json
 import sys
+
 from graph import Graph
 
 
